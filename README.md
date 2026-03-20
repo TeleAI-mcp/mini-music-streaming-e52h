@@ -1,2 +1,3 @@
-# mini-music-streaming-e52h
-Repository to test GitHub automation for issue management
+# Mini Music Streaming E52H
+
+A repository to test GitHub automation for issue management.
